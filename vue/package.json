@@ -16,7 +16,7 @@
     "vue-daum-map": "^1.0.15",
     "vue-moment": "^4.1.0",
     "vue-momentjs": "^0.1.2",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
